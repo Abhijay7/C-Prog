@@ -1,1 +1,1 @@
-Some very basic C and C++ programs.
+Some very basic C programs.
